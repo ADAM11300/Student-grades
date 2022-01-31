@@ -2,3 +2,4 @@ firstName middleName lastName Grade
 Alpha        o        leigh    90
 Abu          A        Kargbo   100
 Sorry                 Sesay    50
+Anthony      Ar       koorma   30
